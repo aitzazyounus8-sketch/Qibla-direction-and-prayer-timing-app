@@ -4,4 +4,4 @@
 double degToRad(double deg);
 double radToDeg(double rad);
 
-#endif // UTILS_H
+#endif
