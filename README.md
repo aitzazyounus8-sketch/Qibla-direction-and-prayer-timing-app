@@ -32,7 +32,7 @@ To run the program:
 # On Windows:
 .\prayer_calculator.exe
 
-##Example Interactive Flow:
+# Example Interactive Flow:
 
 ```text
 === Simple Qibla & Prayer Times Calculator ===
