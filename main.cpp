@@ -20,7 +20,6 @@ int main() {
     std::cout << "Enter Day of the Year (1 to 365): ";
     std::cin >> day;
 
-    // Create a simple, normal stack object (No pointers, no 'new', no memory leaks!)
     PrayerCalculator calc(name, lat, lon, tz);
 
     // Run the calculations
