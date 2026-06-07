@@ -30,4 +30,4 @@ public:
     void saveToFile() const;
 };
 
-#endif // PRAYERCALCULATOR_H
+#endif
