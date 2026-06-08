@@ -18,6 +18,7 @@ git clone https://github.com/aitzazyounus8-sketch/Qibla-direction-and-prayer-tim
 
 # 2. Compile the source code using g++
 paste this command in the terminal to compile the source code:
+
 g++ main.cpp PrayerCalculator.cpp utils.cpp -o prayer_calculator
 
 Once compiled, you can run the executable directly from your terminal. The program will prompt you for your location data.
