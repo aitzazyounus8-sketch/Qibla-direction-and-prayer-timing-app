@@ -16,7 +16,7 @@ To compile and run this project, you will need the following:
 Open your terminal and run the following commands to get the project and compile it locally:
 
 # 1. Clone the repository or navigate to your extracted zip folder
-git clone https://github.com/yourusername/qibla-prayer-calculator.git
+git clone https://github.com/aitzazyounus8-sketch/qibla-prayer-calculator.git
 cd "qibla-prayer-calculator"
 
 # 2. Compile the source code using g++
