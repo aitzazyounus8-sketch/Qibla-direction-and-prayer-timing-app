@@ -5,7 +5,7 @@
 #include <cmath>
 #include <fstream>
 #include <iomanip>
-
+ 
 // Constructor
 PrayerCalculator::PrayerCalculator(std::string name, double lat, double lon, int tz)
     : locationName(name), latitude(lat), longitude(lon), timezone(tz), qiblaAngle(0.0) {}
