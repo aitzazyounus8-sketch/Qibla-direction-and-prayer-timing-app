@@ -13,10 +13,8 @@ To compile and run this project, you will need the following:
 
 ## Installation Instructions
 
-Open your terminal and run the following commands to get the project and compile it locally:
-
 # 1. Clone the repository or navigate to your extracted zip folder
-git clone https://github.com/aitzazyounus8-sketch/Qibla-direction-and-prayer-timing-app
+git clone https://github.com/aitzazyounus8-sketch/Qibla-direction-and-prayer-timing-app/blob/main/Qibla%20and%20prayer%20App%20Zip.zip
 
 # 2. Compile the source code using g++
 g++ main.cpp PrayerCalculator.cpp utils.cpp -o prayer_calculator
