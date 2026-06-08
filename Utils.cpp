@@ -6,5 +6,5 @@ double degToRad(double deg) {
 }
 
 double radToDeg(double rad) { 
-    return rad * 180.0 / PI; 
+    return rad * 180.0 / PI;    
 }
