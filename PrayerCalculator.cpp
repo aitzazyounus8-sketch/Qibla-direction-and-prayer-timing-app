@@ -4,7 +4,7 @@
 #include <iostream>
 #include <cmath>
 #include <fstream>
-#include <iomanip>
+#include <iomanip> 
 
 // Constructor
 PrayerCalculator::PrayerCalculator(std::string name, double lat, double lon, int tz)
